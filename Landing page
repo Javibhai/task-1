@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohamed Javith.S - Landing Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, p {
+            text-align: center;
+        }
+        .email {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .email a {
+            color: #007bff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Mohamed Javith.S</h1>
+    <p>Welcome to my landing page!</p>
+    <div class="email">
+        <p>You can reach me at:</p>
+        <a href="mailto:muhammedjavith16@gmail.com">muhammedjavith16@gmail.com</a>
+    </div>
+</div>
+
+</body>
+</html>
